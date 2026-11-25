@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "skills": {
+    "competitor-profiling": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
+      "sourceType": "github",
+      "skillPath": "skills/competitor-profiling/SKILL.md",
+      "computedHash": "76efcbc21f1aedb9003897638bba2adf265c05415e57444078c57a7a1021f3c2"
+    },
+    "customer-research": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
+      "sourceType": "github",
+      "skillPath": "skills/customer-research/SKILL.md",
+      "computedHash": "8acf4898d060811ac99940b75f47293fe37b1f8da4ecdf81aa2511618587d5bb"
+    },
+    "offers": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
+      "sourceType": "github",
+      "skillPath": "skills/offers/SKILL.md",
+      "computedHash": "3641ad9980f4cfb0e5b8810b0cfecd7f724b9e0076152930c06de8884d1ad791"
+    },
+    "pricing": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
+      "sourceType": "github",
+      "skillPath": "skills/pricing/SKILL.md",
+      "computedHash": "9bea1819645df0b2d95429ecb64745ef5d2940b0bb161a40131eae3db8222813"
+    }
+  }
+}
